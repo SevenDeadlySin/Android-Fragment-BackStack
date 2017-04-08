@@ -17,28 +17,28 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Add A" />
 
         <Button
             android:id="@+id/buttonRemA"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="Remove A" />
 
         <Button
             android:id="@+id/buttonAddB"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="ADD B" />
 
         <Button
             android:id="@+id/buttonRemB"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Button" />
+            android:text="REMOVE B" />
     </LinearLayout>
 
     <FrameLayout
